@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 psycopg2-binary = "*"
+ipykernel = "*"
+requests = "*"
+django = "==3.1.5"
 
 [dev-packages]
 
