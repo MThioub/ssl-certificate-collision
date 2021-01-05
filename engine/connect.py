@@ -35,4 +35,8 @@ def connect():
 
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     connect()
+=======
+    connect()
+>>>>>>> e00b8695f8a814c4c69788750ba08932a2071aad

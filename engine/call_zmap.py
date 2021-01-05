@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 
 @import os
+=======
+import os 
+>>>>>>> e00b8695f8a814c4c69788750ba08932a2071aad
 
 def check_source():
     REPO_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -12,3 +16,8 @@ def check_source():
 
     print("file already exists")
     return 0
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> e00b8695f8a814c4c69788750ba08932a2071aad
