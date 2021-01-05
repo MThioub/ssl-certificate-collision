@@ -10,6 +10,7 @@ requests = "*"
 django = "==3.1.5"
 
 [dev-packages]
+engine = {editable = true, path = "."}
 
 [requires]
 python_version = "3.9"

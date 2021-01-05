@@ -1,6 +1,6 @@
 
 
-@import os
+import os
 
 def check_source():
     REPO_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
