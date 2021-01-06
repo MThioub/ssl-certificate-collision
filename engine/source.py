@@ -1,6 +1,6 @@
 from .call_zmap import check_source
 import hashlib
-from .db_settings import DATABASES
+from .db_settings import PSYCOPG2_DATABASES
 import os
 import psycopg2
 
