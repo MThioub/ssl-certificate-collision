@@ -2,10 +2,14 @@
     "_meta": {
         "hash": {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "sha256": "84c0b8a55a0c2c4c3282239b02ff808fd5f148f84e4eb5d67cca2b10e860835c"
 =======
             "sha256": "73f236ae4eb501380e7e6455fad246cb0843c6d6077609837934b6ba74c692e4"
 >>>>>>> e00b8695f8a814c4c69788750ba08932a2071aad
+=======
+            "sha256": "6020d3a47ad5e1ace998ffa111d60f32182a28b18e0cf7e6da13dc4ba15d63f8"
+>>>>>>> develop
         },
         "pipfile-spec": 6,
         "requires": {
@@ -154,14 +158,18 @@
         },
         "prompt-toolkit": {
             "hashes": [
-                "sha256:25c95d2ac813909f813c93fde734b6e44406d1477a9faef7c915ff37d39c0a8c",
-                "sha256:7debb9a521e0b1ee7d2fe96ee4bd60ef03c6492784de0547337ca4433e46aa63"
+                "sha256:45b154489d89dc41cce86a069a65f3886206518e7ca93fa9d7dad70546c78d54",
+                "sha256:c5eeab58dd31b541442825d7870777f2a2f764eb5fda03334d5219cd84b9722f"
             ],
             "markers": "python_full_version >= '3.6.1'",
+<<<<<<< HEAD
             "version": "==3.0.8"
 =======
             "version": "==1.17"
 >>>>>>> e00b8695f8a814c4c69788750ba08932a2071aad
+=======
+            "version": "==3.0.9"
+>>>>>>> develop
         },
         "psycopg2-binary": {
             "hashes": [
@@ -367,5 +375,10 @@
 >>>>>>> e00b8695f8a814c4c69788750ba08932a2071aad
         }
     },
-    "develop": {}
+    "develop": {
+        "engine": {
+            "editable": true,
+            "path": "."
+        }
+    }
 }
