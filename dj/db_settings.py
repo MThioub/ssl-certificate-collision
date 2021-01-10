@@ -15,3 +15,4 @@ DATABASES = {
 
 
 # DRY Dont repeat yourself
+SECRET_KEY = os.getenv("SK")
